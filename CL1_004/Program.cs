@@ -11,5 +11,5 @@ num = Math.Abs(num);
 
 for (int i = (-num); i <= num; i++)
 {
-    Console.WriteLine(i+" ");    
+    Console.Write(i+" ");    
 }
